@@ -9,6 +9,8 @@
 
 ---
 
+https://tryboy869.github.io/nexus-cosmic/
+
 <a name="english"></a>
 ## English
 
