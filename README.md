@@ -1,17 +1,22 @@
-# Nexus-Cosmic
+<div align="center">
+  <img src="logo.png" alt="Nexus-Cosmic Logo" width="400"/>
+  
+  # Nexus-Cosmic
 
-**Universal Emergent Computation Engine** | **Moteur de Calcul Émergent Universel**
+  **Universal Emergent Computation Engine** | **Moteur de Calcul Émergent Universel**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 
-[English](#english) | [Français](#français)
+  [English](#english) | [Français](#français)
 
----
+  ---
 
-🌐 **Website:** https://tryboy869.github.io/nexus-cosmic/
+  🌐 **Website:** https://tryboy869.github.io/nexus-cosmic/
 
-📘 **Documentation:** [English](DOCUMENTATION.md) | [Français](DOCUMENTATION_FR.md)
+  📘 **Documentation:** [English](DOCUMENTATION.md) | [Français](DOCUMENTATION_FR.md)
+
+</div>
 
 ---
 
@@ -213,4 +218,8 @@ Licence MIT - voir [LICENSE](LICENSE)
 
 ---
 
+<div align="center">
+
 **Star ⭐ this repo if you find it useful!**
+
+</div>
