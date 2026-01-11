@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="Nexus-Cosmic Logo" width="400"/>
+  <img src="logos.png" alt="Nexus-Cosmic Logo" width="400"/>
   
   # Nexus-Cosmic
 
