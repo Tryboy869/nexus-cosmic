@@ -4,7 +4,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
-[![GitHub release](https://img.shields.io/github/v/release/Tryboy869/nexus-cosmic)](https://github.com/Tryboy869/nexus-cosmic/releases)
 
 [English](#english) | [Français](#français)
 
@@ -48,9 +47,6 @@ Nexus-Cosmic is a **distributed computing framework** based on **emergent physic
 ```bash
 # From GitHub
 pip install git+https://github.com/Tryboy869/nexus-cosmic.git
-
-# From release
-pip install https://github.com/Tryboy869/nexus-cosmic/releases/download/v1.0.0/nexus-cosmic-1.0.0.tar.gz
 ```
 
 **Basic Usage:**
@@ -140,8 +136,6 @@ Nexus-Cosmic est un **framework de calcul distribué** basé sur les **principes
 # Depuis GitHub
 pip install git+https://github.com/Tryboy869/nexus-cosmic.git
 
-# Depuis release
-pip install https://github.com/Tryboy869/nexus-cosmic/releases/download/v1.0.0/nexus-cosmic-1.0.0.tar.gz
 ```
 
 **Utilisation basique :**
