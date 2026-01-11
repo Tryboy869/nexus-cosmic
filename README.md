@@ -9,7 +9,11 @@
 
 ---
 
-https://tryboy869.github.io/nexus-cosmic/
+🌐 **Website:** https://tryboy869.github.io/nexus-cosmic/
+
+📘 **Documentation:** [English](DOCUMENTATION.md) | [Français](DOCUMENTATION_FR.md)
+
+---
 
 <a name="english"></a>
 ## English
@@ -78,10 +82,21 @@ print(system.get_sorted_values())  # [1,3,5,8,9]
 
 ### Documentation
 
-- **[Complete Documentation (EN)](docs/en/README.md)**
-- **[API Reference](docs/en/api-reference.md)**
-- **[Examples](examples/)**
-- **[GitHub Pages](https://tryboy869.github.io/nexus-cosmic)**
+- 📘 **[Complete Developer Documentation (English)](DOCUMENTATION.md)** - Full API reference, patterns, examples
+- 📁 **[Examples](examples/)** - Code examples and use cases
+- 🌐 **[Website](https://tryboy869.github.io/nexus-cosmic)** - Landing page
+
+**What's in the Documentation:**
+- Quick Start Guide
+- Core Concepts & Architecture
+- Complete API Reference
+- All Force Laws Explained (with formulas)
+- All Topologies Explained (with diagrams)
+- Freeze Mechanism Details
+- 5 Usage Patterns with Code
+- 3 Advanced Examples (Blockchain, Task Scheduler, Sensor Fusion)
+- Performance Optimization
+- Troubleshooting
 
 ### Contributing
 
@@ -137,7 +152,6 @@ Nexus-Cosmic est un **framework de calcul distribué** basé sur les **principes
 ```bash
 # Depuis GitHub
 pip install git+https://github.com/Tryboy869/nexus-cosmic.git
-
 ```
 
 **Utilisation basique :**
@@ -167,10 +181,21 @@ print(system.get_sorted_values())  # [1,3,5,8,9]
 
 ### Documentation
 
-- **[Documentation Complète (FR)](docs/fr/README.md)**
-- **[Référence API](docs/fr/api-reference.md)**
-- **[Exemples](examples/)**
-- **[GitHub Pages](https://tryboy869.github.io/nexus-cosmic)**
+- 📕 **[Documentation Développeur Complète (Français)](DOCUMENTATION_FR.md)** - Référence API complète, patterns, exemples
+- 📁 **[Exemples](examples/)** - Exemples de code et cas d'usage
+- 🌐 **[Site Web](https://tryboy869.github.io/nexus-cosmic)** - Page d'accueil
+
+**Contenu de la Documentation :**
+- Guide Démarrage Rapide
+- Concepts Fondamentaux & Architecture
+- Référence API Complète
+- Toutes Lois de Force Expliquées (avec formules)
+- Toutes Topologies Expliquées (avec diagrammes)
+- Détails Mécanisme de Gel
+- 5 Patterns d'Utilisation avec Code
+- 3 Exemples Avancés (Blockchain, Ordonnanceur, Fusion Capteurs)
+- Optimisation Performance
+- Dépannage
 
 ### Contribuer
 
