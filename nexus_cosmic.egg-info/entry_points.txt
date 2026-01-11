@@ -1,0 +1,2 @@
+[console_scripts]
+nexus-cosmic = nexus_cosmic.cli:main

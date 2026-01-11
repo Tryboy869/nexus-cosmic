@@ -1,3 +1,26 @@
+Metadata-Version: 2.1
+Name: nexus-cosmic
+Version: 1.0.0
+Summary: Universal Emergent Computation Engine
+Home-page: https://github.com/Tryboy869/nexus-cosmic
+Author: Daouda Abdoul Anzize
+Author-email: Daouda Abdoul Anzize <nexusstudio100@gmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/Tryboy869/nexus-cosmic
+Project-URL: Documentation, https://tryboy869.github.io/nexus-cosmic
+Project-URL: Repository, https://github.com/Tryboy869/nexus-cosmic
+Project-URL: Bug Tracker, https://github.com/Tryboy869/nexus-cosmic/issues
+Keywords: distributed-computing,emergent-systems,consensus,sorting,optimization
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Provides-Extra: numpy
+License-File: LICENSE
+
 # Nexus-Cosmic
 
 **Universal Emergent Computation Engine** | **Moteur de Calcul Émergent Universel**

@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=45", "wheel", "setuptools_scm>=6.2"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nexus-cosmic"
+version = "1.0.0"
+description = "Universal Emergent Computation Engine"
+readme = "README.md"
+requires-python = ">=3.7"
+license = {text = "MIT"}
+authors = [
+    {name = "Daouda Abdoul Anzize", email = "nexusstudio100@gmail.com"}
+]
+keywords = ["distributed-computing", "emergent-systems", "consensus", "sorting", "optimization"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+]
+
+[project.urls]
+Homepage = "https://github.com/Tryboy869/nexus-cosmic"
+Documentation = "https://tryboy869.github.io/nexus-cosmic"
+Repository = "https://github.com/Tryboy869/nexus-cosmic"
+"Bug Tracker" = "https://github.com/Tryboy869/nexus-cosmic/issues"
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0.0", "pytest-cov>=3.0.0"]
+numpy = ["numpy>=1.20.0"]
+
+[tool.setuptools]
+packages = ["nexus_cosmic"]
+
+[tool.setuptools.package-data]
+nexus_cosmic = ["py.typed"]
